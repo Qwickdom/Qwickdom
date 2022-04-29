@@ -1,3 +1,4 @@
+<!-- Profile -->
 <p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
   <b> Hello! I'm PyLess, passionate about programming </b> 
@@ -31,14 +32,27 @@
       <img src="https://github.com/baskerville/bspwm/blob/1560df35be303807052c235634eb8d59415c37ff/artworks/bspwm_logo.svg"
          alt="bspwm" width="35" height="35" />
     </a>
+    <a href="https://www.gnome.org/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Gnomelogo.svg"
+         alt="gnome" width="35" height="35" />
+    </a>
     </p>
   </p>
   <p align="center"><image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=I+code+in+python+for+fun">
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
+<!-- Github Stats -->
 <p align="center">
-  <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyLess&layout=compact&hide_border=true&theme=dark"/>
-  <br>
-  <b>This is the top languages of my public repositories and doesn't reflect experience or skill level</b>
+  <samp>
+  <details align="center"> 
+    <summary>GitHub Stats</summary>
+    <br>
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PyLess&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&layout=compact&theme=dark"/>
+    <br>
+    <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyLess&layout=compact&hide_border=true&theme=dark"/>
+    <br>
+    <b>This is the top languages of my public repositories and doesn't reflect experience or skill level</b>
+  </details>
+  </samp>
 </p>
