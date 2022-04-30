@@ -36,7 +36,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Gnomelogo.svg"
          alt="gnome" width="35" height="35" />
     </a>
-    <a href="https://en.wikipedia.org/wiki/Fedora_Linux" target="_blank" rel="noreferrer">
+    <a href="https://getfedora.org/" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg"
          alt="fedora" width="35" height="35" />
     </a>
