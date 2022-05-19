@@ -1,7 +1,7 @@
 <!-- Profile -->
 <p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
-  <b> Hello! I'm PyLess, a passionate about programming </b> 
+  <b> Hello! I'm Qwickdom, a passionate about programming </b> 
     <br>
     <h3 align="center">Languages and Tools I'm learning</h3>
     <p align="center">
