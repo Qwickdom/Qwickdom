@@ -52,9 +52,9 @@
   <details align="center"> 
     <summary>GitHub Stats</summary>
     <br>
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PyLess&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&layout=compact&theme=dark"/>
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Qwickdom&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&layout=compact&theme=dark"/>
     <br>
-    <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyLess&layout=compact&hide_border=true&theme=dark"/>
+    <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qwickdom&layout=compact&hide_border=true&theme=dark"/>
     <br>
     <b>This is the top languages of my public repositories and doesn't reflect experience or skill level</b>
   </details>
