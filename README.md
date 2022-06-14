@@ -52,9 +52,9 @@
   <details align="center"> 
     <summary>GitHub Stats</summary>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Qwickdom&show_icons=true&count_private=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=999999&border_radius=20"/><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Qwickdom&background=000000&stroke=999999&ring=ffffff&fire=ffffff&currStreakNum=e9e9e9&sideNums=e9e9e9&currStreakLabel=999999&sideLabels=999999&dates=e9e9e9"/><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qwickdom&langs_count=4&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=999999&border_radius=20&layout=compact"/><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=Qwickdom&show_icons=true&count_private=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=999999&border_radius=20&hide_border=true"/><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Qwickdom&background=000000&stroke=999999&ring=ffffff&fire=ffffff&currStreakNum=e9e9e9&sideNums=e9e9e9&currStreakLabel=999999&sideLabels=999999&dates=e9e9e9&hide_border=true"/><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qwickdom&langs_count=4&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=999999&border_radius=20&layout=compact&hide_border=true"/><br>
     <b>This is the top languages of my public repositories and doesn't reflect experience or skill level</b>
   </details>
   </samp>
