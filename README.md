@@ -42,7 +42,7 @@
     </a>
     </p>
   </p>
-  <p align="center"><image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=I+code+in+python+for+fun">
+  <p align="center"><image src="https://readme-typing-svg.herokuapp.com?font=Hack&size=16&color=7aa2f7&center=true&width=410&height=45&lines=I+code+in+python+for+fun">
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
@@ -52,11 +52,20 @@
   <details align="center"> 
     <summary>GitHub Stats</summary>
     <br>
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Qwickdom&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&layout=compact&theme=dark"/>
-    <br>
-    <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qwickdom&layout=compact&hide_border=true&theme=dark"/>
-    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=Qwickdom&show_icons=true&count_private=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=999999&border_radius=20"/><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Qwickdom&background=000000&stroke=999999&ring=ffffff&fire=ffffff&currStreakNum=e9e9e9&sideNums=e9e9e9&currStreakLabel=999999&sideLabels=999999&dates=e9e9e9"/><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qwickdom&langs_count=4&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=999999&border_radius=20&layout=compact"/><br>
     <b>This is the top languages of my public repositories and doesn't reflect experience or skill level</b>
   </details>
   </samp>
 </p>
+
+<!-- Repository Stats -->
+<h1>
+  <a href="#--------">
+    <img align="left" src="https://img.shields.io/github/stars/Qwickdom/Qwickdom?color=black&labelColor=black&style=for-the-badge"/>
+  </a>
+  <a href="#--------">
+    <img align="right" src="https://badges.pufler.dev/visits/Qwickdom/Qwickdom?color=black&labelColor=black&style=for-the-badge"/>
+  </a>
+</h1>
