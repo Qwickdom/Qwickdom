@@ -4,8 +4,8 @@
   <b> Hello world! <br> I'm Qwickdom, a passionate about programming and Linux enthusiast </b> <br>
   <h3 align="center">Languages and Tools I'm learning</h3>
     <p align="center">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+      <a href="https://python.org" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" />
       </a>
       <a href="https://en.wikipedia.org/wiki/Bash" target="_blank" rel="noreferrer">
         <img src="https://lignux.com/wp-content/uploads/2018/06/bash2.png" alt="bash" width="40" height="40" />
@@ -14,7 +14,10 @@
         <img src="https://github.com/dcurtis/markdown-mark/blob/99572b4a4f71b4ea2b1186a30f440ff2fcf66d27/svg/markdown-mark-solid.svg" alt="md" width="40" height="40" />
       </a>
       <a href="https://en.wikipedia.org/wiki/Git" target="_blank" rel="noreferrer">
-        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" />
+      </a>
+      <a href="https://lua.org" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="lua" width="40" height="40" />
       </a>
     </p>
   <h3 align="center">Fav Operating Systems and DE / WM</h3>
