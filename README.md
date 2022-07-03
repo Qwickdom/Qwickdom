@@ -47,13 +47,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qwickdom&langs_count=4&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=999999&border_radius=20&layout=compact&hide_border=true"/><br>
   <b>This is the top languages of my public repositories and doesn't reflect experience or skill level</b>
 </details>
-
-<!-- Repository Stats -->
-<h1>
-  <a href="#________">
-    <img align="left" src="https://img.shields.io/github/stars/Qwickdom/Qwickdom?color=black&labelColor=black&style=for-the-badge"/>
-  </a>
-  <a href="#________">
-    <img align="right" src="https://badges.pufler.dev/visits/Qwickdom/Qwickdom?color=black&labelColor=black&style=for-the-badge"/>
-  </a>
-</h1>
